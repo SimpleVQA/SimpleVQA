@@ -1,5 +1,6 @@
 # SimpleVQA
 SimpleVQA: Multimodal Factuality Evaluation for Multimodal Large Language Models
+
 dataset: https://huggingface.co/datasets/m-a-p/SimpleVQA
 ## Citation
 Please consider citing this work in your publications if it helps your research.
